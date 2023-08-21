@@ -25,7 +25,7 @@
 
       // play the tick sound
     let tick = new Audio("./media/tick.mp3");
-   // tick.play();  // play the audio
+   tick.play();  // play the audio
    // tick.currentTime = 0; //rewinding the audio to start
       
 
